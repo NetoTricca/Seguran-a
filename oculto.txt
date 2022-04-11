@@ -1,0 +1,3 @@
+arquivo texto
+proteção de arquivo
+segurança
